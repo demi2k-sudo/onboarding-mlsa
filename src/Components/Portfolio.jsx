@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Legal Document Generator",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Simplifying Legal documentation with a solution that involves using LLMs that both find the appropriate document needed to address the issue and also generate a document in pdf format.",
+    url: "https://github.com/demi2k-sudo/LawGen",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Lyrics generator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Character level Language model with a context window size of 8 that generates lyrics.",
+    url: "https://github.com/demi2k-sudo/LanguageModels",
   },
   {
-    title: "My Resume Site",
+    title: "Doctor Appointment booking",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A web app using MERN stack for patients to approach Doctors.",
+    url: "https://github.com/demi2k-sudo/Doctor-Analytics",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Research Assistant",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A research Assistant using Retrieval augmented generation by the LLAMA 2 model.",
+    url: "https://github.com/demi2k-sudo/Research-assistant-LLAMA2",
   },
 ];
 
