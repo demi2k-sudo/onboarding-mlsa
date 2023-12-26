@@ -59,7 +59,7 @@ const About = () => {
           padding: "4rem",
           margin: "3rem auto",
           textAlign: "center",
-          filter: blur(8);
+          filter: blur(8),
         }}
       >
         <h2>About Myself</h2>
