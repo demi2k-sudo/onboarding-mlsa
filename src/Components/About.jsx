@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/black.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "blue mountain background";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -59,6 +59,7 @@ const About = () => {
           padding: "4rem",
           margin: "3rem auto",
           textAlign: "center",
+          filter: blur(8);
         }}
       >
         <h2>About Myself</h2>
